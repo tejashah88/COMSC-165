@@ -1,0 +1,67 @@
+27345
+John
+Doe
+312 Golf Club Road
+Pleasant Hill
+CA
+94523
+JDoe
+A
+a
+7
+4
+!
+5
+5
+Y
+m
+a
+r
+y
+~
+Mother's name
+60
+45
+22
+
+10022
+Jane
+Dove
+1 Embarcadero
+San Francisco
+CA
+94121
+JDoe2
+*
+*
+*
+5
+b
+6
+8
+3
+4
+~
+favorite number
+40
+20
+
+06181
+Susan Anon
+245 EAST 44th Street
+New York
+NY
+10017
+Sanon
+Z
+z
+e
+b
+r
+a
+1
+9
+~
+Stripped
+55
+39

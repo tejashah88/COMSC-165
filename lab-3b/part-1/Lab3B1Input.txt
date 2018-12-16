@@ -1,0 +1,20 @@
+Run:
+# of students = 3
+
+Student 1 Answers:
+Z F A B B C B A D B D 7 C C U # B D C A A B A D B
+
+Student 2 Answers:
+A D B B C B A B C D A C D B D C C A D B
+
+Student 3 Answers;
+C D B B C B A A C D A C D D D C C A D A
+
+Input
+3
+Mark
+Z F A B B C B A D B D 7 C C U # B D C A A B A D B
+Jason
+A D B B C B A B C D A C D B D C C A D B
+Kendrick Lamar
+C D B B C B A A C D A C D D D C C A D A
